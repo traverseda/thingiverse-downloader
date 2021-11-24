@@ -1,0 +1,5 @@
+lmdb
+zict
+requests
+hug
+jinja2
